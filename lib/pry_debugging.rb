@@ -6,4 +6,3 @@ end
 def num
   puts 3
 end
-sum= plus_two(num)
